@@ -1,0 +1,11 @@
+C:\Users\deno\Desktop\mobidick\bin\Debug\netcoreapp3.0\mobidick.exe
+C:\Users\deno\Desktop\mobidick\bin\Debug\netcoreapp3.0\mobidick.deps.json
+C:\Users\deno\Desktop\mobidick\bin\Debug\netcoreapp3.0\mobidick.runtimeconfig.json
+C:\Users\deno\Desktop\mobidick\bin\Debug\netcoreapp3.0\mobidick.runtimeconfig.dev.json
+C:\Users\deno\Desktop\mobidick\bin\Debug\netcoreapp3.0\mobidick.dll
+C:\Users\deno\Desktop\mobidick\bin\Debug\netcoreapp3.0\mobidick.pdb
+C:\Users\deno\Desktop\mobidick\obj\Debug\netcoreapp3.0\mobidick.csprojAssemblyReference.cache
+C:\Users\deno\Desktop\mobidick\obj\Debug\netcoreapp3.0\mobidick.AssemblyInfoInputs.cache
+C:\Users\deno\Desktop\mobidick\obj\Debug\netcoreapp3.0\mobidick.AssemblyInfo.cs
+C:\Users\deno\Desktop\mobidick\obj\Debug\netcoreapp3.0\mobidick.dll
+C:\Users\deno\Desktop\mobidick\obj\Debug\netcoreapp3.0\mobidick.pdb
